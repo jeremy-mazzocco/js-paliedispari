@@ -32,12 +32,6 @@ function controllaPalindroma(stringa) {
 }
 
 
-
-
-
-
-
-
 // function controllaPalidroma(stringa) {
 //     for (let i = 0; i < stringa.length / 2; i++) {
 //         if (stringa[i] === stringa[stringa.length - 1 - i]) {
